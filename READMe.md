@@ -2,7 +2,7 @@
 <h1>Proje Adı</h1>
 
 <h2>Açıklama</h2>
-<p>Bu proje, belirli bir klasördeki görüntü ve metin dosyalarını işleyen bir Python betiğini içerir.</p>
+<p>Varsayılan olarak Gaussian bulanıklık seviyesi "yüksek" olarak ayarlanmıştır ve bu seviyeye göre bulanıklık uygulanır. Kod, OpenCV kütüphanesini kullanarak bulanıklaştırma işlemini gerçekleştirir.</p>
 
 <h2>Nasıl Kullanılır</h2>
 <ol>
